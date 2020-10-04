@@ -4,7 +4,7 @@
 <span id="a">jagapathi@gondi</span>:<span id="b">~/JagapathiGondi/About</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->jaggu.txt<br/>
 Software Engineer at Cerner<!-- kjsdfhkjdhsfkjdshfkj --><br/>
 in Bangalore, India<!-- kjsdfhkjdhsfkjdshfkj --><br/>
-Download my resume from <a href="./resume.pdf" target="_blank">here<!-- kjsdfhkjdhsfkjdshfkj --></a><br/>
+Download my resume from <a href="./Jagapathi's Resume.pdf" target="_blank">here<!-- kjsdfhkjdhsfkjdshfkj --></a><br/>
 Contact me on <a href="mailto:gondhijagapathi@gmail.com" target="_blank">📧 Email<!-- kjsdfhkjdhsfkjdshfkj --></a>, &nbsp;
 <a href="https://stackoverflow.com/users/4044380/jagapathi" target="_blank">📚 StackOverflow<!-- kjsdfhkjdhsfkjdshfkj --></a>, &nbsp;
 <a href="https://github.com/gondhijagapathi/" target="_blank">🐈 Github<!-- kjsdfhkjdhsfkjdshfkj --></a><br/>
