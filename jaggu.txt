@@ -2,15 +2,15 @@
 <span id="a">jagapathi@gondi</span>:<span id="b">~/JagapathiGondi/About</span><span id="c">$</span> tiv <!-- kjsdfhkjdhsfkjdshfkj -->jaggu.jpg<br/>
 <img src="https://avatars3.githubusercontent.com/u/23327757?s=460&u=830f2371e1d1e565fda4ba6512871fdd90d46612&v=4 height="150" width="150" "></img><br/>
 <span id="a">jagapathi@gondi</span>:<span id="b">~/JagapathiGondi/About</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->jaggu.txt<br/>
-Software Engineer at Cerner<!-- kjsdfhkjdhsfkjdshfkj --><br/>
+Software Engineer II at Cerner<!-- kjsdfhkjdhsfkjdshfkj --><br/>
 in Bangalore, India<!-- kjsdfhkjdhsfkjdshfkj --><br/>
-Download my resume from <a href="./Jagapathi's Resume.pdf" target="_blank">here<!-- kjsdfhkjdhsfkjdshfkj --></a><br/>
+Download my resume from <a href="./Resume.pdf" target="_blank">here<!-- kjsdfhkjdhsfkjdshfkj --></a><br/>
 Contact me on <a href="mailto:gondhijagapathi@gmail.com" target="_blank">📧 Email<!-- kjsdfhkjdhsfkjdshfkj --></a>, &nbsp;
 <a href="https://stackoverflow.com/users/4044380/jagapathi" target="_blank">📚 StackOverflow<!-- kjsdfhkjdhsfkjdshfkj --></a>, &nbsp;
-<a href="https://github.com/gondhijagapathi/" target="_blank">🐈 Github<!-- kjsdfhkjdhsfkjdshfkj --></a><br/>
+<a href="https://github.com/gondhijagapathi/" target="_blank">📝 Github<!-- kjsdfhkjdhsfkjdshfkj --></a><br/>
 My favorite code quote, "<span id="k">There's no place like 127.0.0.1</span>".<br/>
 <span id="a">jagapathi@gondi</span>:<span id="b">~/JagapathiGondi/About</span><span id="c">$</span> cd ~<!-- kjsdfhkjdhsfkjdshfkj -->/JagapathiGondi/work
 <span id="a">jagapathi@gondi</span>:<span id="b">~/JagapathiGondi/work</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->work.txt
 
-<p>Cheers!</p>
+<p>Ahhh! a lot to write here, I will complete next Monday I promise.</p>
 <span id="a">jagapathi@gondi</span>:<span id="b">~</span><span id="c">$</span>
