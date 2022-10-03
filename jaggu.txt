@@ -2,7 +2,7 @@
 <span id="a">jagapathi@gondi</span>:<span id="b">~/JagapathiGondi/About</span><span id="c">$</span> tiv <!-- kjsdfhkjdhsfkjdshfkj -->jaggu.jpg<br/>
 <img src="https://avatars3.githubusercontent.com/u/23327757?s=460&u=830f2371e1d1e565fda4ba6512871fdd90d46612&v=4 height="150" width="150" "></img><br/>
 <span id="a">jagapathi@gondi</span>:<span id="b">~/JagapathiGondi/About</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->jaggu.txt<br/>
-Software Engineer II at Cerner<!-- kjsdfhkjdhsfkjdshfkj --><br/>
+Manager at Morgan Stanley<!-- kjsdfhkjdhsfkjdshfkj --><br/>
 in Bangalore, India<!-- kjsdfhkjdhsfkjdshfkj --><br/>
 Download my resume from <a href="./Resume.pdf" target="_blank">here<!-- kjsdfhkjdhsfkjdshfkj --></a><br/>
 Contact me on <a href="mailto:gondhijagapathi@gmail.com" target="_blank">📧 Email<!-- kjsdfhkjdhsfkjdshfkj --></a>, &nbsp;
