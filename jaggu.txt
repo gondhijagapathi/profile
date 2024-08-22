@@ -1,6 +1,6 @@
 <span id="a">jagapathi@gondi</span>:<span id="b">~</span><span id="c">$</span> cd JagapathiGondi/<!-- kjsdfhkjdhsfkjdshfkj -->About
 <span id="a">jagapathi@gondi</span>:<span id="b">~/JagapathiGondi/About</span><span id="c">$</span> tiv <!-- kjsdfhkjdhsfkjdshfkj -->jaggu.jpg<br/>
-<img src="https://user-images.githubusercontent.com/23327757/144856558-da690556-7714-443e-8b87-47d9bd8bca03.jpg height="150" width="150" "></img><br/>
+<img src="https://user-images.githubusercontent.com/23327757/144856558-da690556-7714-443e-8b87-47d9bd8bca03.jpg" height="150" width="150"></img><br/>
 <span id="a">jagapathi@gondi</span>:<span id="b">~/JagapathiGondi/About</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->jaggu.txt<br/>
 Senior Manager at Morgan Stanley<!-- kjsdfhkjdhsfkjdshfkj --><br/>
 in Bangalore, India<!-- kjsdfhkjdhsfkjdshfkj --><br/>
