@@ -1,7 +1,12 @@
+<!DOCTYPE html>
 <html lang="en">
-    
 <head>
     <title>Jagapathi Gondi</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Profile of Jagapathi Gondi (gondhijagapathi@gmail.com), software engineer at Cerner, Bangalore India, working on JavaScript, java, REST">
+    <meta name="theme-color" content="#0d1117">
+    
     <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
@@ -16,32 +21,30 @@
     <link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
     <link rel="manifest" href="/favicon/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileColor" content="#0d1117">
     <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    <meta property="og:image" content="https://jagapathi.me/favicon/ms-icon-310x310.png">
+    
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-3LMJMBY6JF"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        
         gtag('config', 'G-3LMJMBY6JF');
     </script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <link rel="stylesheet" type="text/css" href="index.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Profile of Jagapathi Gondi (gondhijagapathi@gmail.com), software engineer at Cerner, Bangalore India, working on JavaScript, java, REST ">
-    <meta name="google-site-verification" content="YveVCn2gBjDmApZItZTZ3TU7DjjAds37DanywRR4eD8" />
 </head>
-
-<body>
-    <script type="text/javascript" src="index.js">
-    </script>
-    <div id="console"></div>
-
-    </script>
+<body class="crt">
+    <div id="terminal" role="log" aria-live="polite">
+        <div id="output"></div>
+        <div class="prompt" id="prompt-container" style="display: none;">
+            <span class="prompt-prefix">
+                <span class="prompt-user">jagapathi@gondi</span>:<span class="prompt-dir">~</span><span class="prompt-char">$</span>
+            </span>
+            <input type="text" id="cmd-input" autocomplete="off" spellcheck="false" autofocus aria-label="Terminal input">
+        </div>
+    </div>
+    <script src="data.js"></script>
+    <script src="index.js"></script>
 </body>
-
 </html>
